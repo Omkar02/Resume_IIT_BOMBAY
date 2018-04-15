@@ -45,12 +45,7 @@
     }\vspace{-5pt}
 }
 \newcommand{\ressubheading}[4]{
-\begin{figure}
-    \centering
-    \includegraphics[width=0.7\linewidth]{Profile}
-    \caption{}
-    \label{fig:profile}
-\end{figure}
+
     \begin{tabular*}{6.5in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
         \textbf{#1} & #2 \\
         \textit{#3} & \textit{#4} \\
@@ -63,8 +58,8 @@
     %-----------------------------------------------------------
     %Insert profile photo 
     \begin{tabular*}{7in}{l@{\extracolsep{\fill}}r}
-        & \multirow{4}{*}{\includegraphics[scale=0.08]{Profile}}\\
-        & \\
+        & \multirow{1}{*}{\includegraphics[scale=0.08]{Profile}}\\
+         \\
         %-----------------------------------------------------------  
         \textbf{\Large Omkar Joshi  } & \\
         Engineering Student & \\
@@ -73,13 +68,37 @@
         8007118016\\
     \end{tabular*}
     \\
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \resheading{Objective}
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \begin{itemize}
-      I am seeking a competitive and challenging environment where I can serve your organization and establish a career for myself.
+        \item
+            I am seeking a competitive and challenging environment where I can serve your organization and establish a career for myself.
     \end{itemize}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \resheading{Education}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \begin{itemize}
+        \item
+        \ressubheading{Fr. Conceicao Rodrigues College of Engineering}{Bandra,Mumbai}{B.Eng. Electronics}{Pursuing}
+        \begin{itemize}
+            \resitem{Second Year: 7.035 CGPA}
+            \resitem{Third Year: Pursuing }
+        \end{itemize}
+        
+        \item
+        \ressubheading{Viva College of Diploma Enginnering And Technology}{Virar, Mumbai}{Diploma in Electronics and Telecommunication}{2013 - 2016}
+        \begin{itemize}
+            \resitem{President of Students' Council and captain of the rugby team in senior year}
+            \resitem{Graduated with a 82\% average}
+        \end{itemize}
     
-    
+        \item
+        \ressubheading{St. Augustine's High School}{Vasai, Mumbai}{High School}{2002 - 2013}
+        \begin{itemize}
+            \resitem{Graduated with a 81\% average}
+        \end{itemize}
+    \end{itemize}
     
     
     

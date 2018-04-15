@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.15)  15 APR 2018 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.15)  15 APR 2018 21:09
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -468,19 +468,19 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 ) (Resume.aux)
 \openout1 = `Resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 56.
 
 ("C:\Users\omkar\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -564,64 +564,60 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 65.
+(Font)              <10.95> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 65.
+(Font)              <8> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 65.
+(Font)              <6> on input line 60.
 <Profile.jpg, id=1, 1029.09468pt x 1408.51219pt>
 File: Profile.jpg Graphic file (type jpg)
 <use Profile.jpg>
-Package pdftex.def Info: Profile.jpg  used on input line 66.
+Package pdftex.def Info: Profile.jpg  used on input line 61.
 (pdftex.def)             Requested size: 82.32925pt x 112.68327pt.
 
-Overfull \vbox (62.36334pt too high) detected at line 66
+Overfull \vbox (103.16331pt too high) detected at line 61
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 72.
 ("C:\Users\omkar\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 76.
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.80     \end{itemize}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 72.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 76.
+("C:\Users\omkar\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
 [1
 
 {C:/Users/omkar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Profile.j
 pg>] (Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2928 strings out of 493305
- 40559 string characters out of 3129802
- 108086 words of memory out of 3000000
- 6435 multiletter control sequences out of 15000+200000
- 12278 words of font info for 31 fonts, out of 3000000 for 9000
+ 2949 strings out of 493305
+ 40930 string characters out of 3129802
+ 111024 words of memory out of 3000000
+ 6450 multiletter control sequences out of 15000+200000
+ 15069 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,35p,275b,212s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/
 dvips/base/8r.enc}<C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/urw/helvetic/uhvb8a.pfb><C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/urw/times/utmb8a.pfb><C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/urw/times/utmr8a.pfb>
-Output written on Resume.pdf (1 page, 317540 bytes).
+/public/amsfonts/cm/cmsy10.pfb><C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/omkar/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/omkar/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/omkar/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Resume.pdf (1 page, 344927 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.15)  15 APR 2018 19:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.15)  15 APR 2018 19:34
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -573,34 +573,55 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: Profile.jpg Graphic file (type jpg)
 <use Profile.jpg>
 Package pdftex.def Info: Profile.jpg  used on input line 66.
-(pdftex.def)             Requested size: 92.61452pt x 126.76062pt.
+(pdftex.def)             Requested size: 82.32925pt x 112.68327pt.
 
-Overfull \vbox (76.44069pt too high) detected at line 66
+Overfull \vbox (62.36334pt too high) detected at line 66
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 76.
+("C:\Users\omkar\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 76.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 76.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80     \end{itemize}
+                      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 [1
 
 {C:/Users/omkar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Profile.j
 pg>] (Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2871 strings out of 493305
- 39747 string characters out of 3129802
- 107098 words of memory out of 3000000
- 6383 multiletter control sequences out of 15000+200000
- 10109 words of font info for 28 fonts, out of 3000000 for 9000
+ 2928 strings out of 493305
+ 40559 string characters out of 3129802
+ 108086 words of memory out of 3000000
+ 6435 multiletter control sequences out of 15000+200000
+ 12278 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,35p,275b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,13n,35p,275b,212s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/
 dvips/base/8r.enc}<C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/urw/times/utmb8a.pfb><C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmr8a.pfb>
-Output written on Resume.pdf (1 page, 310600 bytes).
+/urw/helvetic/uhvb8a.pfb><C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/urw/times/utmb8a.pfb><C:/Users/omkar/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/urw/times/utmr8a.pfb>
+Output written on Resume.pdf (1 page, 317540 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 20 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
